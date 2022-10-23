@@ -48,7 +48,7 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-  <img height="280em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?          user=franklyncastro&theme=gruvbox_duo&fire=DD2727&stroke=DD2727&border=DD2727&ring=DD2727&dates=D8DDD3&background=0902026A)](https://git.io/streak-stats)" />
+  <img height="280em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franklyncastrto&theme=vision-friendly-dark)](https://git.io/streak-stats)" />
  
   <br/>
  
