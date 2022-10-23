@@ -48,11 +48,11 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="280em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?          user=franklyncastro&theme=gruvbox_duo&fire=DD2727&stroke=DD2727&border=DD2727&ring=DD2727&dates=D8DDD3&background=0902026A)](https://git.io/streak-stats)" />
  
   <br/>
  
-</div>
+</div>  
 
 
   
@@ -65,7 +65,7 @@
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
       </a>   
       <a align='right' href="mailto:luiggylml@gmail.com">
-         <img alt="Email" src="[https://seeklogo.com/images/O/outlook-logo-7117D18788-seeklogo.com.png](https://es.m.wikipedia.org/wiki/Archivo:Microsoft_Outlook_2013-             2019_logo.svg)" height="30" width="30"/>
+         <img alt="Hotmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
    <p><label>franklyncastro@hotmail.com</label></p>
