@@ -19,26 +19,26 @@
 ## About 👨
    
 <div align="center">
-  <p align="center">Soy estudiante de Ingenieria de Sistemas a la mitad de la carrera descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
+  <p align="center">Soy estudiante de Ingenieria en Sistemas, descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p>
     </p>
 </div>
 
 
-## Full Stack Developer 
+## Web Developer 
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img align="center" alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<!--   <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> -->
   <img align="center" alt="Node" height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+<!--   <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> -->
+<!--   <img align="center" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<!--   <img align="center" alt="PostgreSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> -->
   <img align="center" alt="Git" height="50" width="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img align="center" alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
+<!--   <img align="center" alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif"> -->
     
   
 
