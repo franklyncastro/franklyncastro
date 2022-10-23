@@ -61,11 +61,11 @@
 ******
 ### - 📫 How to reach me: ...
    <p>
-      <a href="https://www.linkedin.com/in/franklyncastro/">
+      <a href="www.linkedin.com/in/franklyncastro">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
       </a>   
       <a align='right' href="mailto:luiggylml@gmail.com">
-         <img alt="Email" src="[https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg](https://www.freepnglogos.com/uploads/logo-outlook-png/microsoft-outlook-macos-          icon-12.png)" height="30" width="30"/>
+         <img alt="Email" src="[https://seeklogo.com/images/O/outlook-logo-7117D18788-seeklogo.com.png](https://es.m.wikipedia.org/wiki/Archivo:Microsoft_Outlook_2013-             2019_logo.svg)" height="30" width="30"/>
       </a>  
    </p>
    <p><label>franklyncastro@hotmail.com</label></p>
