@@ -1,6 +1,6 @@
 
 <h3 align="center">    
-    #Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/">I'm Franklyn Yawelyn Castro!</a>
+    Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, <a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/">I'm Franklyn Yawelyn Castro!</a>
 </h3>
  , 
 
