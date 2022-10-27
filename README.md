@@ -13,8 +13,13 @@
 <br>
    
 <!--  ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&theme=radical)
- ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franklyncastro&show_icons=true&theme=radical)
+ <div align="center">
+  <a href="https://github.com/franklyncastro">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklyncastro&layout=compact&langs_count=7&theme=radical" />
+  <br/>
+    </a>
+</div>
 
 ## About 👨
    
