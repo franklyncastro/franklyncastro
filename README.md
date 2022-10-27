@@ -67,7 +67,7 @@
       <a href="www.linkedin.com/in/franklyncastro">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
       </a>   
-      <a align='right' href="mailto:luiggylml@gmail.com">
+      <a align='right' href="mailto:franklyncastro@hotmail.com">
          <img alt="Hotmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
