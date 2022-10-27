@@ -62,13 +62,14 @@
   
   
 ******
-- 📫 How to reach me **monike.ftsousa@gmail.com**
+- 📫 How to reach me **franklyncastro@hotmail.com**
+- <p><label>franklyncastro@hotmail.com</label></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monnifs" height="30" width="40" /></a>
 
 </p>
-   <p><label>franklyncastro@hotmail.com</label></p>
+   
    
    
   ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
