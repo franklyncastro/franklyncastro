@@ -11,8 +11,9 @@
 </h4>
 </p>
 <br>
-
- ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&hide_border=true)&nbsp;&nbsp;
+   
+<!--  ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklyncastro&show_icons=true&theme=radical)
  ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franklyncastro&layout=compact&langs_count=8&hide_border=true)
 
 ## About 👨
