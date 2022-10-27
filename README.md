@@ -4,7 +4,8 @@
   Welcome to Jonah Lawrence's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-     <a href="https://github.com/franklyncastro/franklyncastro"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Front-end+Junior+Developer%E2%9C%A8%E2%9C%A8"></a>
+<h4 align="center">
+<a href="https://github.com/franklyncastro/franklyncastro"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Front-end+Junior+Developer%E2%9C%A8%E2%9C%A8"></a>
 </h4>
 </p>
 <br>
