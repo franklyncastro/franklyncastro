@@ -62,15 +62,12 @@
   
   
 ******
-### - 📫 How to reach me: ...
-   <p>
+- 📫 How to reach me **monike.ftsousa@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monnifs" height="30" width="40" /></a>
-    
-      </a>   
-      <a align='right' href="mailto:franklyncastro@hotmail.com">
-         <img alt="Hotmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-   </p>
+
+</p>
    <p><label>franklyncastro@hotmail.com</label></p>
    
    
