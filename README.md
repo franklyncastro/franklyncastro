@@ -1,7 +1,8 @@
 
-    
-
- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Franklyn Yawelyn Castro!](https://linkedin.com/in/franklyn-yawerlyn-castro-dev/") 
+<h3 align="center">    
+    ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/"  target="_blank">I'm [Franklyn Yawelyn Castro!]</a>
+</h3>
+ , 
 
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1> <h4 align="center">
