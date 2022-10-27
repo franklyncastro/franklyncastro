@@ -64,8 +64,8 @@
 ******
 ### - 📫 How to reach me: ...
    <p>
-      <a href="www.linkedin.com/in/franklyncastro">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+<a href="https://linkedin.com/in/franklyn-yawerlyn-castro-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monnifs" height="30" width="40" /></a>
+    
       </a>   
       <a align='right' href="mailto:franklyncastro@hotmail.com">
          <img alt="Hotmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
