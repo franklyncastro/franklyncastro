@@ -47,7 +47,7 @@
 <div align="center">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ![Snake animation](https://github.com/franklyncstro/franklyncastro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
    </div>
    <div align="center">
         <img src="https://komarev.com/ghpvc/?username=franklyncastro&color=d63031" alt="" width="12%" height="12%"/> 
