@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-<div align="center"><br>  <p align="center">Soy estudiante de Ingenieria en Sistemas, descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.</p><br>    </p><br></div>
+<div align="center"><br>  <p align="center">I am a Systems Engineering student, I got to know this world of programming and now I dedicate 100% of my time to continue learning. I characterize myself as a self-taught, attentive person with the ability to adapt to new technologies.</p><br>    </p><br></div>
 
 
 ## 🌐 Socials:
