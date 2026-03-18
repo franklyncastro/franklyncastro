@@ -25,7 +25,7 @@ I'm a frontend developer based in **Santo Domingo, Dominican Republic**, focused
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franklyncastro)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18094364678)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18294664678)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AC1119?style=for-the-badge&logo=vercel&logoColor=white)](franklyndevportafolio)
 
 <br/>
@@ -62,9 +62,11 @@ I'm a frontend developer based in **Santo Domingo, Dominican Republic**, focused
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
+| **Core Network App** | Responsive web design, night mode, functional login, integrated Firebase | React · Context · CSS · Firebase | [View →](https://oncallcoreviva.vercel.app/) |
 | **Apex Gym** | Premium gym landing page with dark/gold design | HTML · CSS · JS | [View →](https://apexgymmaster.vercel.app) |
 | **Sales Dashboard** | E-commerce admin panel with real-time charts | React · SVG · Hooks | [View →](https://bigdatadashboard.vercel.app) |
 | **TechZone Store** | Tech e-commerce with shopping cart | React · Context · CSS | [View →](https://techzonestore.vercel.app) |
+
 
 <br/>
 
