@@ -63,9 +63,11 @@ I'm a frontend developer based in **Santo Domingo, Dominican Republic**, focused
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | **Core Network App** | Responsive web design, night mode, functional login, integrated Firebase | React · Context · CSS · Firebase | [View →](https://oncallcoreviva.vercel.app/) |
+| **PulmoKids** | Landing page for a medical practice, attractive and responsive design. | HTML · CSS · JS | [View →](https://pulmokids.vercel.app/) |
 | **Apex Gym** | Premium gym landing page with dark/gold design | HTML · CSS · JS | [View →](https://apexgymmaster.vercel.app) |
 | **Sales Dashboard** | E-commerce admin panel with real-time charts | React · SVG · Hooks | [View →](https://bigdatadashboard.vercel.app) |
 | **TechZone Store** | Tech e-commerce with shopping cart | React · Context · CSS | [View →](https://techzonestore.vercel.app) |
+
 
 
 <br/>
