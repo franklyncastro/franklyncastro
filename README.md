@@ -62,7 +62,7 @@ I'm a frontend developer based in **Santo Domingo, Dominican Republic**, focused
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| **Medicita** | Homepage for a medical practice with an appointment scheduling system and appointment confirmation by email. attractive and responsive design. | React · Hooks · CSS3 | [View →](https://medicitamendoza.vercel.app/) |
+| **Medicita** | Landing page for a medical practice with an appointment scheduling system and appointment confirmation by email. attractive and responsive design. | React · Hooks · CSS3 | [View →](https://medicitamendoza.vercel.app/) |
 | **Core Network App** | Responsive web design, night mode, functional login, integrated Firebase | React · Context · CSS · Firebase | [View →](https://oncallcoreviva.vercel.app/) |
 | **PulmoKids** | Landing page for a medical practice, attractive and responsive design. | HTML · CSS · JS | [View →](https://pulmokids.vercel.app/) |
 | **Apex Gym** | Premium gym landing page with dark/gold design | HTML · CSS · JS | [View →](https://apexgymmaster.vercel.app) |
